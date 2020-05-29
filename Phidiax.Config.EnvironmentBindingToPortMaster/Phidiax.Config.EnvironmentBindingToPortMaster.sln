@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phidiax.Config.EnvironmentBindingToPortMaster", "Phidiax.Config.EnvironmentBindingToPortMaster.csproj", "{A8300A08-E74D-4EF5-A96C-8A75D4B4F93B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8300A08-E74D-4EF5-A96C-8A75D4B4F93B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8300A08-E74D-4EF5-A96C-8A75D4B4F93B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8300A08-E74D-4EF5-A96C-8A75D4B4F93B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8300A08-E74D-4EF5-A96C-8A75D4B4F93B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF2CD1A4-70AE-455A-BDAC-8031D090DAA4}
+	EndGlobalSection
+EndGlobal
